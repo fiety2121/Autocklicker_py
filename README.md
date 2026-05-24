@@ -14,7 +14,7 @@ pip install pynput
 ## Usage
 
 ```bash
-python autoclicker.py
+python main.py
 ```
 
 | Key | Action |
@@ -24,7 +24,7 @@ python autoclicker.py
 
 ## Configuration
 
-Edit the constants at the top of `autoclicker.py`:
+Edit the constants at the top of `main.py`:
 
 ```python
 TOGGLE_KEY        = Key.f6        # Hotkey to start/stop
